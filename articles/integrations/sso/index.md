@@ -26,7 +26,7 @@ Auth0 provides SSO Integrations for the following services:
 - [Egnyte](/integrations/sso/egnyte)
 - [New Relic](/integrations/sso/new-relic)
 - [Office 365](/integrations/sso/office-365)
-- [SalesForce](/integrations/sso/salesforce)
+- [Salesforce](/integrations/sso/salesforce)
 - [SharePoint](/integrations/sso/sharepoint)
 - [Slack](/integrations/sso/slack)
 - [SpringCM](/integrations/sso/springcm)
